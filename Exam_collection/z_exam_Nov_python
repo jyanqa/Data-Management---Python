@@ -1,0 +1,25 @@
+A = [[1,2], [3,4]]
+B = [[5,6], [7,8]]
+M = np.dot(A, B)
+M
+
+------------
+name = ["hifjfk", "Hahahsgd", "Lalae"]
+r = []
+for s in name:
+    t= s[::-1].upper()
+    r.append(t)
+r
+
+-----------
+a, b, c, counter = 2,2,2,2
+def f(n):
+    while (counter < n):
+     counter += 1
+    a = b + c -1
+    c = b
+    b = a
+    return a 
+f(6)
+------
+Describe PCA use the mathematica notation when appropriate. What it can be used for?

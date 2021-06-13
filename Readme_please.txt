@@ -4,6 +4,6 @@ A. Python folder is forked from repository of Prof. Bianchi together with all le
 
 B. SQL exam is actually pgAdmin 4 exam. You can study L1, L2, L3, L4 file. Do extra exercises on L5 and practice queries in Practice-Queries files. If you have enough time, check L0.a and L0.b. I don't remember what they are but its fine if you skip them. You can also find the questions of 2020 exams on the Exam_collection folder.
 
-C. NoSQL is simple, not much to say.. anyway Practice makes perfect. Thus, learn by heart 4 jason files. Check Exam_collection folder for previous exam questions. 
+C. NoSQL is simple, not much to say.. anyway Practice makes perfect. Thus, learn by heart all 4 json files. Check Exam_collection folder for previous exam questions. 
 
 Good luck!
